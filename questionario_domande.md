@@ -1,19 +1,33 @@
 # Domande del questionario [www.unosostenibile.it](https://www.unosostenibile.it)
 ### Socioanagrafiche
 Genere
+
 Data di nascita
+
 Comune di residenza
+
 Titolo di studio attuale.
+
 Se sei laureato indica l'area scientifica disciplinare di riferimento del titolo di studio più elevato conseguito.
+
 Nel corso dell'ultimo anno a quale attività hai dedicato più ore? (studente/ studente lavoratore/ lavoratore studente/ lavoratore a tempo pieno/ lavoratore autonomo/ in cerca di occupazione / non occupato e non in cerca di occupazione)
+
 Uno dei tuoi genitori è laureato?
 
 ### Associazionismo  
 Associazionismo. Hai fatto parte, per almeno un periodo di sei mesi di una delle seguenti organizzazioni? (sportive/ impegno sociale e assistenziale/ studentesche, della gioventù, culturali/ di tutela ambientale/ per la pace, il disarmo, i diritti dell’uomo/ sindacati/ movimenti politici o di partito)
+
 Quanto ti senti vicino ai seguenti movimenti ambientalisti?  FridaysForFuture/ExtinctionRebellion
 
 ### Domande per la costruizone dell'indice di benessere
-Quanto sei soddisfatto/a...?   tenore di vita / salute / ciò che stai realizzando nella tua vita /relazioni personali / sentirsi sicuro o protetto / sentirti parte della comunità in cui vivi / sicurezza per il futuro
+Quanto sei soddisfatto/a...?   
+* tenore di vita
+* salute
+* ciò che stai realizzando nella tua vita
+* relazioni personali 
+* sentirsi sicuro o protetto 
+* sentirti parte della comunità in cui vivi 
+* sicurezza per il futuro
 
 ### Uso del tempo
 Quanto del tempo libero dalla scuola o dal lavoro tempo passi con gli amici (totale 100%)
