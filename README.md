@@ -1,4 +1,4 @@
-# Progetto Unososteniibile
+# Progetto Unosostenibile
 
 ## Il progetto Unosostenibile ha due scopi
 
